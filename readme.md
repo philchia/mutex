@@ -1,0 +1,1 @@
+# mutex designed to be a successor of sync.Mutex with a additional TryLock method
